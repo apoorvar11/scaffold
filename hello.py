@@ -6,4 +6,4 @@
 
 #def subtract(x):
  #   return x - 1
- print("Hello GCP!")  
+print("Hello GCP!")  
